@@ -1,10 +1,12 @@
-# Amit Kumar Koshta
-
-**Data, MLOps & Agentic AI Engineer** · IIT Kanpur · Stockholm, Sweden  
-Designing deterministic multi-agent architectures, application-layer AI security & governance runtimes, calibrated LLMOps gateways, and cloud-native ML/data infrastructure across **GCP, AWS, and Azure**.
-
-[![Email](https://img.shields.io/badge/Email-kenseiamit%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kenseiamit@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kenseiAmit-181717?style=flat-square&logo=github)](https://github.com/kenseiAmit)
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Amit Kumar Koshta — Agentic AI, AI Security & Cloud MLOps" width="100%" />
+  <br/><br/>
+  <a href="mailto:kenseiamit@gmail.com"><img src="https://img.shields.io/badge/Email-kenseiamit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/kenseiAmit?tab=repositories"><img src="https://img.shields.io/badge/Public%20Systems-28%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <a href="https://github.com/kenseiAmit?tab=stars"><img src="https://img.shields.io/badge/Curated%20Lists-4%20Star%20Lists-2563EB?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Stars"/></a>
+  <br/><br/>
+  <img src="assets/portfolio-demo.svg" alt="Featured Engineering Systems Trace" width="96%" />
+</div>
 
 ---
 
