@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 86" width="1200" height="86" role="img" aria-label="Open Live Portfolio Website — kenseiamit.github.io">
+  <defs>
+    <linearGradient id="ctaBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#0B2545"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="ctaBtn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="84" rx="14" fill="url(#ctaBg)" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.6"/>
+
+  <!-- Pulsing Live Indicator -->
+  <circle cx="38" cy="43" r="6" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="38" cy="43" r="12" fill="none" stroke="#10B981" stroke-opacity="0.45" stroke-width="1.5">
+    <animate attributeName="r" values="6;14;6" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Left Headline & Subtext -->
+  <text x="64" y="37" fill="#F8FAFC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0.2">
+    LIVE INTERACTIVE PORTFOLIO WEBSITE  —  kenseiamit.github.io
+  </text>
+  <text x="64" y="61" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="500">
+    Role-Specific Views · 28 Mermaid Topologies · Zero-Latency Runtime Trace Replay Lab · CI Evidence
+  </text>
+
+  <!-- Right Action Pill -->
+  <g transform="translate(918, 20)">
+    <rect width="256" height="46" rx="10" fill="url(#ctaBtn)"/>
+    <text x="128" y="29" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="800" letter-spacing="0.3">
+      Launch Portfolio Website ↗
+    </text>
+  </g>
+</svg>
