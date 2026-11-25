@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://kenseiamit.github.io">
-    <img src="assets/profile-banner.svg" alt="Amit Kumar Koshta — Agentic AI, AI Security & Cloud MLOps" width="100%" />
+    <img src="assets/profile-banner.svg" alt="Amit Kumar — Agentic AI, AI Security & Cloud MLOps" width="100%" />
   </a>
   <br/><br/>
   <a href="https://kenseiamit.github.io">
