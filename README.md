@@ -18,6 +18,7 @@
   </p>
   <a href="https://kenseiamit.github.io"><img src="https://img.shields.io/badge/Personal%20Website-kenseiamit.github.io-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/></a>
   <a href="https://kenseiamit.github.io/portfolio/"><img src="https://img.shields.io/badge/Full%2028--System%20Hub-%2Fportfolio-0F766E?style=for-the-badge&logo=rocket&logoColor=white" alt="Full 28-System Portfolio"/></a>
+  <a href="https://kenseiamit.github.io/blog/agentic-sre/"><img src="https://img.shields.io/badge/Latest%20Essay-Agentic%20SRE-4F46E5?style=for-the-badge&logo=readme&logoColor=white" alt="Latest Essay: Agentic SRE"/></a>
   <a href="https://www.linkedin.com/in/kenseiamit/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fkenseiamit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://huggingface.co/spaces/kenseiamit/agentops-governance-sandbox"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20HF%20Sandbox-Try%20Zero--Key%20Demo-FFD21E?style=for-the-badge&labelColor=0F172A" alt="Hugging Face Live Demo"/></a>
   <a href="mailto:kenseiamit@gmail.com"><img src="https://img.shields.io/badge/Email-kenseiamit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
